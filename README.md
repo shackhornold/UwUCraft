@@ -1,5 +1,5 @@
 # UwUCraft
-A wholesome minecraft texture pack collaborative effort. 
+A cute minecraft texture pack collaborative effort. 
 
 # Setup
 
